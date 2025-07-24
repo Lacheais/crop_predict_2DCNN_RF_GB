@@ -29,6 +29,6 @@ crop_predict_2DCNN_RF_GB/
 ├── gitignore/ # Git ignored files
 ├── LICENSE/ # MIT
 ├── README.md # Project description
-├── requirements.txt # Requirements for program execution
 ├── pred1 (2).py #Python File
 ├── pred1.ipynb #Jupyter Notebook File
+├── requirements.txt # Requirements for program execution
