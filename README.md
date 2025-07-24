@@ -4,11 +4,7 @@
 This repository contains the code and architecture for my undergraduate thesis project, which predicts crop yield per plant based on environmental factors using artificial intelligence. The system uses a 2D Convolutional Neural Network (CNN) combined with ensemble models such as Random Forest and Gradient Boosting, tuned with Optuna for performance.
 
 # Overview
-
-- **Thesis Title:** Crop Yield Prediction Using CNN and Ensemble Learning
-- **Degree:** BS in Computer Engineering
-- **Author:** Justin Frederick Abando
-- **University:** Colegio de Muntinlupa
+- **Author:** Lacheais
 - **Year:** 2025
 
 This work aims to improve the accuracy of yield prediction for bell pepper crops by modeling the relationship between environmental inputs across plant growth stages and the resulting yield.
