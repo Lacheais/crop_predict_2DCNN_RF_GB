@@ -1,0 +1,9 @@
+tensorflow
+flask
+ngrok
+numpy
+pandas
+scikit-learn
+optuna
+matplotlib
+joblib
